@@ -42,3 +42,4 @@ groqBOT/
 ├── config.json
 └── .env
 ```
+![image](https://github.com/user-attachments/assets/3ece7022-cf00-4ff5-947c-a08f64657f42)
